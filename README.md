@@ -47,16 +47,6 @@ DSA-Practice/
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeForces](https://codeforces.com/)
 
-### Books
-- "Introduction to Algorithms" by CLRS
-- "Cracking the Coding Interview" by Gayle McDowell
-- "Algorithms" by Robert Sedgewick
-
-### YouTube Channels
-- Abdul Bari
-- Back To Back SWE
-- Tushar Roy
-
 ## 🏆 Goals and Milestones
 
 - [ ] Solve 50 Easy Problems
